@@ -1,0 +1,12 @@
+[2020-04-21 00:48:27,124][               Page.java][main][DEBUG] - Loaded Config property file
+[2020-04-21 00:48:27,131][               Page.java][main][DEBUG] - Loaded Locator property file
+[2020-04-21 00:48:27,134][               Page.java][main][DEBUG] - Browser is configured as :chrome
+[2020-04-21 00:48:42,558][          LoginTest.java][main][DEBUG] - Clicked on login in homepage
+[2020-04-21 00:48:43,061][               Page.java][main][DEBUG] - Clicked on element :NextButton_CSS
+[2020-04-21 00:48:43,396][               Page.java][main][DEBUG] - Clicked on element :SigninButton_CSS
+[2020-04-21 00:48:43,396][          LoginTest.java][main][DEBUG] - Logged into the zoho account
+[2020-04-21 00:49:26,987][               Page.java][main][DEBUG] - Clicked on element :ClickOnCRMLink_LinkText
+[2020-04-21 00:49:26,988][          LoginTest.java][main][DEBUG] - Clicked on CRM page
+[2020-04-21 00:49:28,050][     ForcefulFailed.java][main][DEBUG] - About to validate assertion
+[2020-04-21 00:49:28,790][               Page.java][main][DEBUG] - Placed the file in 
+[2020-04-21 00:49:28,790][ CustomTestListners.java][main][DEBUG] - Screenshot for the test case has been captured

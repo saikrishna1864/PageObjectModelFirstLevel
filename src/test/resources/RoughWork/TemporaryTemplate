@@ -1,0 +1,26 @@
+
+	open account : "div.center>button.btn.btn-lg.tab:nth-child(2)"
+	
+	
+	    customername : div.form-group>select#userSelect[name='userSelect'][ng-model='custId']
+	    
+	    selectcurrency : div.form-group>select#currency[name='currency'][ng-model='currency']
+	    
+	    button : div.ng-scope>div.marTop>form[name='myForm']>button[type='submit']
+	
+	
+	customer : "div.center>button.btn.btn-lg.tab:last-child"
+	
+	addcustomer : "div.center>button.btn.btn-lg.tab:first-child"
+	
+	     firstname : "div.form-group>input[ng-model='fName']"
+	
+	     lastname : "div.form-group>input[ng-model='lName']"
+	
+	     postcode : "div.form-group>input[ng-model='postCd']"
+	     
+	     button   : "div.marTop>form[name='myForm']>button.btn.btn-default[type='submit']"
+	
+	
+	
+	
